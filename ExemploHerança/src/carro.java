@@ -21,7 +21,7 @@ public class carro  extends veiculo{
 		// TODO Auto-generated method stub
 		super.imprimirDados();
 		
-		System.out.println("Quatro Portas: " + quatroPortas);
+		System.out.println("Duas Portas: " + quatroPortas);
 		
 	}
 	
