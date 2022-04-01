@@ -20,11 +20,9 @@ public class main {
 		
 		moto moto1 = new moto();
 		
-		System.out.println();
-		
 		moto1.setAno(2010);
 		moto1.setMarca("Honda");
-		moto1.setModelo("150");
+		moto1.setModelo("Titan");
 		moto1.empinar();
 		moto1.buzinar();
 		moto1.imprimirDados();
