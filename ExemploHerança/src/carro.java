@@ -16,10 +16,10 @@ public class carro  extends veiculo{
 		
 	}
 	
-	@Override
+	@Override //Sobrescreve o método imprimir dados
 	public void imprimirDados() {
 		// TODO Auto-generated method stub
-		super.imprimirDados();
+		super.imprimirDados();//super = realiza o método da classe e depois executa o restante
 		
 		System.out.println("Quatro Portas: " + quatroPortas);
 		
